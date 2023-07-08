@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yunusemreguven/projev2.git/static/css/main.d46508ed.css",
+    "main.js": "/yunusemreguven/projev2.git/static/js/main.1ef74cbe.js",
+    "index.html": "/yunusemreguven/projev2.git/index.html",
+    "main.d46508ed.css.map": "/yunusemreguven/projev2.git/static/css/main.d46508ed.css.map",
+    "main.1ef74cbe.js.map": "/yunusemreguven/projev2.git/static/js/main.1ef74cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46508ed.css",
+    "static/js/main.1ef74cbe.js"
+  ]
+}
